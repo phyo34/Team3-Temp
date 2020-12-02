@@ -1,0 +1,42 @@
+[
+  {
+    "ProductName": "iPhone 8",
+    "BidAmount": 200,
+    "BidCount": 4,
+    "Status": "good",
+    "OpenOrClose": false,
+    "HighestBidID": null
+  },
+  {
+    "ProductName": "Arduino Uni R3 MicroController A000088",
+    "BidAmount": 160,
+    "BidCount": 12,
+    "Status": "good",
+    "OpenOrClose": false,
+    "HighestBidID": null
+  },
+  {
+    "ProductName": "My left shoe",
+    "BidAmount": 90,
+    "BidCount": 13,
+    "Status": "good",
+    "OpenOrClose": false,
+    "HighestBidID": null
+  },
+  {
+    "ProductName": "Hyper X",
+    "BidAmount": 55,
+    "BidCount": 11,
+    "Status": "good",
+    "OpenOrClose": false,
+    "HighestBidID": null
+  },
+  {
+    "ProductName": "Smoko Snoppy Light",
+    "BidAmount": 5555,
+    "BidCount": 11,
+    "Status": "good",
+    "OpenOrClose": false,
+    "HighestBidID": "391e2ab4043747b3b8cfe60b6e6a7481"
+  }
+]

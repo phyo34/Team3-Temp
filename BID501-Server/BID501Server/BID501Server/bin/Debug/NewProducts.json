@@ -1,0 +1,17 @@
+[{
+  "ProductName": "Samsung TV",
+  "BidAmount": 1500,
+  "BidCount": 20,
+  "Status": "good",
+  "OpenOrClose": false,
+  "HighestBidID": null
+},
+{
+  "ProductName": "Mona Lisa",
+  "BidAmount": 10000,
+  "BidCount": 13,
+  "Status": "good",
+  "OpenOrClose": false,
+  "HighestBidID": null
+}
+]
